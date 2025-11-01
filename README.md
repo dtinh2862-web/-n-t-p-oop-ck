@@ -1,1 +1,1 @@
-# -n-t-p-oop-ck
+#oop-ck
